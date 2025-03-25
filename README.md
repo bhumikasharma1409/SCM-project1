@@ -1,2 +1,2 @@
-# SCM-
-scm project1
+ Project Title
+This project is about....
